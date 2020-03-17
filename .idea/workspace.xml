@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41eb655d-8394-40e5-a97a-c3a1b52dc4b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZGBE2ibTx8A3K5niY1aU2iFiX7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FindIndexOfEementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindIndexOfEementInArray" />
+      <module name="InArrayFindIndexOflEement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindIndexOfEementInArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41eb655d-8394-40e5-a97a-c3a1b52dc4b9" name="Default Changelist" comment="" />
+      <created>1584455434597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584455434597</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1484" height="216" key="GridCell.Tab.0.bottom" timestamp="1584456024389">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="216" key="GridCell.Tab.0.bottom/70.27.1530.873@70.27.1530.873" timestamp="1584456024389" />
+    <state width="1484" height="216" key="GridCell.Tab.0.center" timestamp="1584456024389">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="216" key="GridCell.Tab.0.center/70.27.1530.873@70.27.1530.873" timestamp="1584456024389" />
+    <state width="1484" height="216" key="GridCell.Tab.0.left" timestamp="1584456024388">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="216" key="GridCell.Tab.0.left/70.27.1530.873@70.27.1530.873" timestamp="1584456024388" />
+    <state width="1484" height="216" key="GridCell.Tab.0.right" timestamp="1584456024389">
+      <screen x="70" y="27" width="1530" height="873" />
+    </state>
+    <state width="1484" height="216" key="GridCell.Tab.0.right/70.27.1530.873@70.27.1530.873" timestamp="1584456024389" />
+  </component>
+</project>
